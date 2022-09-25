@@ -1,3 +1,4 @@
+<?php echo "Welcome here!"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
